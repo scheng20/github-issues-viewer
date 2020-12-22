@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/github-issues-viewer/static/css/main.f162a3a6.chunk.css",
+    "main.js": "/github-issues-viewer/static/js/main.5b7664ab.chunk.js",
+    "main.js.map": "/github-issues-viewer/static/js/main.5b7664ab.chunk.js.map",
+    "runtime-main.js": "/github-issues-viewer/static/js/runtime-main.baee430c.js",
+    "runtime-main.js.map": "/github-issues-viewer/static/js/runtime-main.baee430c.js.map",
+    "static/js/2.6cbf5440.chunk.js": "/github-issues-viewer/static/js/2.6cbf5440.chunk.js",
+    "static/js/2.6cbf5440.chunk.js.map": "/github-issues-viewer/static/js/2.6cbf5440.chunk.js.map",
+    "index.html": "/github-issues-viewer/index.html",
+    "static/css/main.f162a3a6.chunk.css.map": "/github-issues-viewer/static/css/main.f162a3a6.chunk.css.map",
+    "static/js/2.6cbf5440.chunk.js.LICENSE.txt": "/github-issues-viewer/static/js/2.6cbf5440.chunk.js.LICENSE.txt",
+    "static/media/close.11448ac6.svg": "/github-issues-viewer/static/media/close.11448ac6.svg",
+    "static/media/issue-closed.4e003d44.svg": "/github-issues-viewer/static/media/issue-closed.4e003d44.svg",
+    "static/media/index.css": "/github-issues-viewer/static/media/montserrat-regular.5c06c48e.woff",
+    "static/media/pull-request.2640ad75.svg": "/github-issues-viewer/static/media/pull-request.2640ad75.svg",
+    "static/media/Search.css": "/github-issues-viewer/static/media/search.d004850b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baee430c.js",
+    "static/js/2.6cbf5440.chunk.js",
+    "static/css/main.f162a3a6.chunk.css",
+    "static/js/main.5b7664ab.chunk.js"
+  ]
+}
