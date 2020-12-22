@@ -1,4 +1,5 @@
 # GitHub Issues Viewer
+A web app that displays the issues of a GitHub Repository.
 
 <img src="screenshots/IssueViewer1.PNG" width="400" title="Search Page"> <img src="screenshots/IssueViewer2.PNG" width="400" title="Results Page">
 
