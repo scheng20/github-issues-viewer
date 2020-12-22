@@ -1,4 +1,4 @@
-# GitHub Issue Viewer
+# GitHub Issues Viewer
 
 ## :star: Introduction 
 A simple web app that utilizes the [GitHub API](https://docs.github.com/en/free-pro-team@latest/rest) to fetch and display a list of issues from any GitHub repository.

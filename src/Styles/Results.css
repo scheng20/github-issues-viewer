@@ -140,3 +140,42 @@ td {
 	}
 
 }
+
+@media only screen and (max-width: 640px) {
+
+	thead, th{
+		font-size: 14px;
+	}
+
+	tr {
+		font-size: 12px;
+	}
+
+	.th-title {
+		width: 20%;
+	}
+
+	.th-desc {
+		width: 40%;
+	}
+
+	.th-label {
+		width: 25%;
+	}
+
+	.th-type {
+		width: 15%;
+	}
+
+	.labels {
+		font-size: 8px;
+	}
+
+	.ClosedIcon,
+	.PullIcon {
+		width: 16px;
+		opacity: 0.80;
+		fill:  #ffffff;
+	}
+
+}
