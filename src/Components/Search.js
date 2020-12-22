@@ -4,7 +4,7 @@ import '../Styles/Search.css';
 export default function Search(props) {
 	return (
 		<div className = "search-page">
-			<h1 className = "title"> GitHub Issue Viewer</h1>
+			<h1 className = "title"> GitHub Issues Viewer</h1>
 			<form className = "text-center" onSubmit = {props.getIssues}>
 				<input 
 					className = 'search-bar'
