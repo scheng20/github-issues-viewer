@@ -1,0 +1,142 @@
+a {
+	color: #ffffff;
+}
+
+a:hover {
+	color: #ffffff;
+}
+
+.table {
+	margin-top: 30px;
+	margin-bottom: 100px;
+	table-layout: fixed;
+}
+
+.th-title {
+	width: 17%;
+}
+
+.th-desc {
+	width: 60%;
+}
+
+.th-label {
+	width: 15%;
+}
+
+.th-type {
+	width: 8%;
+}
+
+thead, th{
+	font-size: 18px;
+	background-color: #165c26;
+	border-right-color: #144620 !important;
+	text-align: center;
+}
+
+tr {
+	font-size: 14px;
+}
+
+td {
+	overflow-wrap: break-word;
+}
+
+.labels{
+
+	margin-top: 5px;
+	margin-right: 5px;
+
+	padding-top: 5px;
+	padding-bottom: 2px;
+	padding-left: 10px;
+	padding-right: 10px;
+
+	border-radius: 5px;
+	background-color: #165c26;
+	width: fit-content;
+	
+	color: #ffffff;
+	font-weight: lighter;
+	font-size: 10px;
+}
+
+.no-results {
+	position: relative;
+	margin-top: 15%;
+	margin-bottom: 300px;
+	text-align: center;
+  	color: #455A64;
+  	font-size: 28px;
+}
+
+.issue-title {
+	margin-right: auto;
+}
+
+.ClosedIcon,
+.PullIcon {
+	margin-left: 12px;
+	width: 16px;
+	opacity: 0.80;
+	fill:  #ffffff;
+}
+
+@media only screen and (max-width: 990px) {
+
+	.th-title {
+		width: 15%;
+	}
+
+	.th-desc {
+		width: 60%;
+	}
+
+	.th-label {
+		width: 15%;
+	}
+
+	.th-type {
+		width: 10%;
+	}
+}
+
+@media only screen and (max-width: 780px) {
+
+	thead, th{
+		font-size: 14px;
+	}
+
+	tr {
+		font-size: 12px;
+	}
+
+	.th-title {
+		width: 15%;
+	}
+
+	.th-desc {
+		width: 50%;
+	}
+
+	.th-label {
+		width: 20%;
+	}
+
+	.th-type {
+		width: 15%;
+	}
+
+	.labels {
+		font-size: 8px;
+	}
+
+	.ClosedIcon,
+	.PullIcon {
+		width: 16px;
+		opacity: 0.80;
+		fill:  #ffffff;
+	}
+
+}

@@ -1,0 +1,26 @@
+.nav {
+	margin-top: 50px;
+	padding-right: 30px;
+}
+
+.nav-link {
+	color: #586069;
+	font-size: 18px;
+	font-weight: lighter;
+}
+
+.nav-link:hover {
+	color: #165c26;
+}
+
+.nav-item > .active {
+	color: #165c26;
+}
+
+@media only screen and (max-width: 780px) {
+	.nav {
+		padding-right: 10px;
+		padding-left: 10px;
+		justify-content: center;
+	}
+}

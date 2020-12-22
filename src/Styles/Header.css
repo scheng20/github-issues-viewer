@@ -1,0 +1,47 @@
+.header {
+	width: 100%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 50px;
+  	background-color: #2f363d;
+  	color: #ffffff;
+  	font-size: 28px;
+  	font-weight: bold;
+}
+
+.url {
+	float: right;
+	padding-top: 10px;
+	padding-right: 50px;
+	color: #ffffff;
+	font-size: 18px;
+	font-weight: lighter;
+}
+
+.closeIcon {
+	margin-left: 20px;
+    width: 20px;
+    cursor: pointer;
+    fill: #ffffff;
+}
+
+@media only screen and (max-width: 1020px) {
+	.header {
+		height: 120px;
+		text-align: center;
+		padding-left: 0px !important;
+	}
+
+	.url {
+		float: none;
+		text-align: center;
+		padding-right: 0px !important;
+	}
+}
+
+@media only screen and (max-width: 640px) {
+	
+	.url {
+		font-size: 14px;
+	}
+}
