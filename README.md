@@ -1,6 +1,6 @@
 # GitHub Issues Viewer
 
-<img src="screenshots/IssueViewer1.PNG" width="420" title="Search Page"> <img src="screenshots/IssueViewer2.PNG" width="420" title="Results Page">
+<img src="screenshots/IssueViewer1.PNG" width="400" title="Search Page"> <img src="screenshots/IssueViewer2.PNG" width="400" title="Results Page">
 
 ## :star: Introduction 
 A simple web app that utilizes the [GitHub API](https://docs.github.com/en/free-pro-team@latest/rest) to fetch and display a list of issues from any GitHub repository.
