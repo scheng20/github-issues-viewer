@@ -6,6 +6,8 @@ A web app that displays the issues of a GitHub Repository.
 ## :star: Introduction 
 A simple web app that utilizes the [GitHub API](https://docs.github.com/en/free-pro-team@latest/rest) to fetch and display a list of issues from any GitHub repository.
 
+<img src="screenshots/Issue%20Viewer%20Demo.gif" width="800" title="Demo">
+
 Features include:
 - Fetching issue data from a GitHub repository URL (with error handling)
 - Displaying a list of issues and their details in a table format
